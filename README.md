@@ -129,20 +129,20 @@ section.small h3 {
 
 | 実施   | テーマ                                                   |
 | ------ | -------------------------------------------------------- |
-| 2022年 | [産業医が知っておきたい健康経営の知識](https://github.com/ToruSagami/public_me/raw/main/2022/sangyoui_kenko_keiei_2022.marp.pdf)         |
-| 2022年 | [今すぐ役立つ！産業医のデジタルトランスフォーメーション](https://github.com/ToruSagami/public_me/raw/main/2022/sangyoui_kenko_keiei_2022.marp.pdf) |
-| 2021年 | [産業医が知っておきたい難病の知識](https://github.com/ToruSagami/public_me/raw/main/2022/part1-print-2022-2-25kenshu.pdf)|  |
+| 2022年 | [産業医が知っておきたい健康経営の知識](https://github.com/ToruSagami/public_me/blob/main/2022/sangyoui_kenko_keiei_2022.marp.pdf)         |
+| 2022年 | [今すぐ役立つ！産業医のデジタルトランスフォーメーション](https://github.com/ToruSagami/public_me/blob/main/2022/Sangyoui_DX_2022.marp.pdf) |
+| 2021年 | [産業医が知っておきたい難病の知識](https://github.com/ToruSagami/public_me/blob/main/2022/part1-print-2022-2-25kenshu.pdf)|  |
 
 ## 公衆衛生学講義 
 | 回  | テーマ                           |
 | --- | -------------------------------- |
-| 1   | [地域保健と保健統計](https://github.com/ToruSagami/public_me/raw/main/kango/1-%E5%9C%B0%E5%9F%9F%E4%BF%9D%E5%81%A5%E3%81%A8%E4%BF%9D%E5%81%A5%E7%B5%B1%E8%A8%88.pdf)             |
-| 2   | [母子保健と学校保健](https://github.com/ToruSagami/public_me/raw/main/kango/2-%E6%AF%8D%E5%AD%90%E4%BF%9D%E5%81%A5%E3%81%A8%E5%AD%A6%E6%A0%A1%E4%BF%9D%E5%81%A5.pdf)             |
-| 3   | [難病対策と感染症対策](https://github.com/ToruSagami/public_me/raw/main/kango/3-%E9%9B%A3%E7%97%85%E5%AF%BE%E7%AD%96%E3%81%A8%E6%84%9F%E6%9F%93%E7%97%87%E5%AF%BE%E7%AD%96.pdf)           |
-| 4   | [働く人の健康とメンタルヘルス](https://github.com/ToruSagami/public_me/raw/main/kango/4-%E5%83%8D%E3%81%8F%E4%BA%BA%E3%81%AE%E5%81%A5%E5%BA%B7%E3%81%A8%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9.pdf)   |
-| 5   | [生活習慣病と介護・認知症の予防](https://github.com/ToruSagami/public_me/raw/main/kango/5-%E7%94%9F%E6%B4%BB%E7%BF%92%E6%85%A3%E7%97%85%E3%81%A8%E4%BB%8B%E8%AD%B7%E3%83%BB%E8%AA%8D%E7%9F%A5%E7%97%87%E3%81%AE%E4%BA%88%E9%98%B2.pdf) |
-| 6   | [健康教育・ヘルスプロモーション](https://github.com/ToruSagami/public_me/raw/main/kango/6-%E5%81%A5%E5%BA%B7%E6%95%99%E8%82%B2%E3%83%BB%E3%83%98%E3%83%AB%E3%82%B9%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.pdf) |
-| 7   | [社会と健康](https://github.com/ToruSagami/public_me/raw/main/kango/7-%E7%A4%BE%E4%BC%9A%E3%81%A8%E5%81%A5%E5%BA%B7.pdf)                     |
+| 1   | [地域保健と保健統計](https://github.com/ToruSagami/public_me/blob/main/kango/1-%E5%9C%B0%E5%9F%9F%E4%BF%9D%E5%81%A5%E3%81%A8%E4%BF%9D%E5%81%A5%E7%B5%B1%E8%A8%88.pdf)             |
+| 2   | [母子保健と学校保健](https://github.com/ToruSagami/public_me/blob/main/kango/2-%E6%AF%8D%E5%AD%90%E4%BF%9D%E5%81%A5%E3%81%A8%E5%AD%A6%E6%A0%A1%E4%BF%9D%E5%81%A5.pdf)             |
+| 3   | [難病対策と感染症対策](https://github.com/ToruSagami/public_me/blob/main/kango/3-%E9%9B%A3%E7%97%85%E5%AF%BE%E7%AD%96%E3%81%A8%E6%84%9F%E6%9F%93%E7%97%87%E5%AF%BE%E7%AD%96.pdf)           |
+| 4   | [働く人の健康とメンタルヘルス](https://github.com/ToruSagami/public_me/blob/main/kango/4-%E5%83%8D%E3%81%8F%E4%BA%BA%E3%81%AE%E5%81%A5%E5%BA%B7%E3%81%A8%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%98%E3%83%AB%E3%82%B9.pdf)   |
+| 5   | [生活習慣病と介護・認知症の予防](https://github.com/ToruSagami/public_me/blob/main/kango/5-%E7%94%9F%E6%B4%BB%E7%BF%92%E6%85%A3%E7%97%85%E3%81%A8%E4%BB%8B%E8%AD%B7%E3%83%BB%E8%AA%8D%E7%9F%A5%E7%97%87%E3%81%AE%E4%BA%88%E9%98%B2.pdf) |
+| 6   | [健康教育・ヘルスプロモーション](https://github.com/ToruSagami/public_me/blob/main/kango/6-%E5%81%A5%E5%BA%B7%E6%95%99%E8%82%B2%E3%83%BB%E3%83%98%E3%83%AB%E3%82%B9%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.pdf) |
+| 7   | [社会と健康](https://github.com/ToruSagami/public_me/blob/main/kango/7-%E7%A4%BE%E4%BC%9A%E3%81%A8%E5%81%A5%E5%BA%B7.pdf)                     |
 
 ## Youtube :arrow_forward: <BR> [おクスリちゃんねる💊医者も知らない新常識🍒](https://www.youtube.com/channel/UCuNBtJRNmjwoAMxWjSEl4Yg)                   
 ![bg right:20% fit](https://chart.apis.google.com/chart?cht=qr&chs=160x160&chl=https://www.youtube.com/channel/UCuNBtJRNmjwoAMxWjSEl4Yg/videos) 
