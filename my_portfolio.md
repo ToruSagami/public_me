@@ -150,22 +150,24 @@ section.small h3 {
 ![](../portfolio/yasasii_kikime-canva.png)
 
 <!-- _backgroundColor: lightyellow -->
+
 ---
 <!-- _backgroundColor: lightyellow -->
-[【謎解き】え！あの人が？痛風事件💦の真犯人？【おクスリちゃんねる💊】](https://www.youtube.com/watch?v=60lzdg05T_8)
-[【新常識】歯ブラシみがき残し実は40％？最新歯みがき事情【永久歯よ！永遠なれ】](https://www.youtube.com/watch?v=jQOUiim28_Q)
-[【新常識】ピロリ菌はノーベル賞。〇〇の原因！除菌どうする？](https://www.youtube.com/watch?v=9pascTgNtfo)
-[【自分新時代】はじめてのメンタル科😍失敗しない選び方🔔【医者を見抜く】](https://www.youtube.com/watch?v=DasE1fcYZQw)
-[まだ🌷バリウム検査？最新！胃がん検診事情【おクスリ💊チャンネル】](https://www.youtube.com/watch?v=V2rkrDu6Guw)
-[【大人の歯は何本？】🦷歯を失うと〇〇症に！最新！歯周病事情🍎【ゆっくり】](https://www.youtube.com/watch?v=_A4eueSOtb0)
-[【新常識】冬に増えるインフル。夏に増える病気は？【食中毒だけ？】](https://www.youtube.com/watch?v=Jpwliy9_OpE)
-[【新常識】心療内科？精神科？違いのわかる大人の！【平安時代のメンタル？】](https://www.youtube.com/watch?v=aDuNJSyCXJc)
-[【新常識】血圧測定・いつ・どこで【デフォルト変更】](https://www.youtube.com/watch?v=jwT_c_l4g1c)
-[【睡眠の質】九州そらナビゲート！マインドフルな旅【寝る前】](https://www.youtube.com/watch?v=F_rLocr8-hA)
-[【リアル食事ゲー】ちゃっかり！おやつでビンゴ！【ダイエット女子妊活プレママ】](https://www.youtube.com/watch?v=WeD3rD7D6xU)
-[【自分新時代】俺の減塩【セブン・塩分・いい気分】](https://www.youtube.com/watch?v=6KUYCLiGnGk)
-[【令和新常識】どんな人が長生き？【ノーベル賞ギネスレジェンドの秘訣】](https://www.youtube.com/watch?v=VqfZJCA5YTg)
+- [【謎解き】え！あの人が？痛風事件💦の真犯人？【おクスリちゃんねる💊】](https://www.youtube.com/watch?v=60lzdg05T_8)
+- [【新常識】歯ブラシみがき残し実は40％？最新歯みがき事情【永久歯よ！永遠なれ】](https://www.youtube.com/watch?v=jQOUiim28_Q)
+- [【新常識】ピロリ菌はノーベル賞。〇〇の原因！除菌どうする？](https://www.youtube.com/watch?v=9pascTgNtfo)
+- [【自分新時代】はじめてのメンタル科😍失敗しない選び方🔔【医者を見抜く】](https://www.youtube.com/watch?v=DasE1fcYZQw)
+- [まだ🌷バリウム検査？最新！胃がん検診事情【おクスリ💊チャンネル】](https://www.youtube.com/watch?v=V2rkrDu6Guw)
+- [【大人の歯は何本？】🦷歯を失うと〇〇症に！最新！歯周病事情🍎【ゆっくり】](https://www.youtube.com/watch?v=_A4eueSOtb0)
+- [【新常識】冬に増えるインフル。夏に増える病気は？【食中毒だけ？】](https://www.youtube.com/watch?v=Jpwliy9_OpE)
+- [【新常識】心療内科？精神科？違いのわかる大人の！【平安時代のメンタル？】](https://www.youtube.com/watch?v=aDuNJSyCXJc)
+- [【新常識】血圧測定・いつ・どこで【デフォルト変更】](https://www.youtube.com/watch?v=jwT_c_l4g1c)
+- [【睡眠の質】九州そらナビゲート！マインドフルな旅【寝る前】](https://www.youtube.com/watch?v=F_rLocr8-hA)
+- [【リアル食事ゲー】ちゃっかり！おやつでビンゴ！【ダイエット女子妊活プレママ】](https://www.youtube.com/watch?v=WeD3rD7D6xU)
+- [【自分新時代】俺の減塩【セブン・塩分・いい気分】](https://www.youtube.com/watch?v=6KUYCLiGnGk)
+- [【令和新常識】どんな人が長生き？【ノーベル賞ギネスレジェンドの秘訣】](https://www.youtube.com/watch?v=VqfZJCA5YTg)
 
+<!-- _class: small -->
 
 ## <!--fit-->人工音声による「電子紙芝居」
 <!-- _backgroundColor: "#ffe0e0" -->
