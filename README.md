@@ -48,14 +48,14 @@ paginate: true
     font-size: 20px;
   }
   section.small h2 {
-    font-size:  30px; 
+    font-size:  34px; 
   }
-  section.small h2 {
-    font-size:  20px; 
+  section.small h3 {
+    font-size:  34px; 
   }
 
 section.small h3 {
-    font-size:  26px; 
+    font-size:  34px; 
     line-height: 0;
   }
   section.small P {
@@ -72,7 +72,7 @@ section.small h3 {
     font-size:  24.5px; 
   }
   section.small table {
-    font-size: 22px;
+    font-size: 27px;
   }
   section.center {
     text-align: center
@@ -99,41 +99,64 @@ section.small h3 {
 
 ## 職務経歴
 
-- 放射線診断専門医であり、大学病院での臨床経験を有する。前職では、国立がん研究センターで全国がん登録の研究員としてデータベース研究を経験。
-- 現在は非製造業の専属産業医として、メンタルヘルス対応、健康経営の施策立案や従業員のヘルスリテラシー向上を目的とする研修の企画・実施に携わる。
-- 医療関連の情報技術の知識、臨床医・産業医の経験を生かし、人事担当者や産業医向けの研修会の講師としても活動。
-- [メディックメディア「公衆衛生がみえる」](https://www.amazon.co.jp/%E5%85%AC%E8%A1%86%E8%A1%9B%E7%94%9F%E3%81%8C%E3%81%BF%E3%81%88%E3%82%8B-2022-2023-%E5%8C%BB%E7%99%82%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80/dp/4896328582/ref=sr_1_1?keywords=%E5%85%AC%E8%A1%86%E8%A1%9B%E7%94%9F%E3%81%8C%E3%81%BF%E3%81%88%E3%82%8B&qid=1661668428&sr=8-1)の企画に参画。 大学院では公衆衛生学を専攻。
+- <U>非製造業の専属産業医</U>として、主にメンタルヘルス対応、健康経営の施策立案や一般社員への研修の企画・実施に携わる。
+- ヘルスケアITの知識、臨床医・産業医の経験を活かし、人事労務担当者や産業医を対象とするの<U>研修会の講師</U>として活動。
+- 放射線診断専門医であり、大学病院での臨床経験を有する。前職は、国立がん研究センターで全国がん登録の研究員としてデータベース研究を経験。
+- [書籍「公衆衛生がみえる」](https://www.amazon.co.jp/%E5%85%AC%E8%A1%86%E8%A1%9B%E7%94%9F%E3%81%8C%E3%81%BF%E3%81%88%E3%82%8B-2022-2023-%E5%8C%BB%E7%99%82%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80/dp/4896328582/ref=sr_1_1?keywords=%E5%85%AC%E8%A1%86%E8%A1%9B%E7%94%9F%E3%81%8C%E3%81%BF%E3%81%88%E3%82%8B&qid=1661668428&sr=8-1)の企画に参画。 大学院では公衆衛生学を専攻。
 
 
-![bg fit right:22% vertical](https://informa.medilink-study.com/wordpress/wp-content/uploads/2014/12/c5bdc3cd1327829d7a15539c02245932.jpg)
+![bg fit right:18% vertical](https://informa.medilink-study.com/wordpress/wp-content/uploads/2014/12/c5bdc3cd1327829d7a15539c02245932.jpg)
  
 
 ## 資格・専門領域
 
 - 医師
-- 労働衛生コンサルタント
+- 労働衛生コンサルタント 日本医師会認定産業医
 - 放射線診断専門医
 
 ### 専門領域
 - 公衆衛生学 産業医学 医療情報学 放射線診断学 臨床疫学
 
+### 関連する諸分野
 
-## 一般・人事総務労務担当者向けセミナー
-| 実施   | テーマ                                           |
+臨床医学・精神医学・産業精神保健学・医療社会学・医療コミュニケーション学健康教育学・臨床心理学・行動分析学・行動経済学・ポジティブ心理学・コーチング心理学・失敗学　などなど
+
+
+---
+### どうして産業医？
+
+- 初期研修修了「放射線診断」の道へ
+    -   医療機関に来る病気の患者ひとりひとりを見ていてもキリがない
+- 労働力人口の減少と高齢化
+  - 20-60歳代が健康を維持・増進しながら「活躍」することが必要
+- 医師は病気の専門家であっても、健康科学の専門家である保証はない…
+  - 大学院：公衆(public)衛生(health) = みんなの健康
+
+
+### これからやりたいこと
+- 病人を診る医師でなく、社会の健康度を高める医師。全体の平均値の改善
+- スマホで知識が手に入る時代。動機づけのための「教育」「適切な情報」
+- 前例踏襲の医療業界の生産性向上。医療従事者のITスキルの向上。タスクシフト
+
+
+## 講師（セミナー・講習会・学生講義）
+| 実施   | 一般・人事総務労務担当者向け                                           |
 | ------ | ------------------------------------------------ |
-| 2022年 | [今さら聞けない健康経営の知識と健康のエビデンス](https://github.com/ToruSagami/public_me/raw/main/2022/2022_Imasara_Kenko_Keiei.marp.pdf) |
-| 2021年 | [知って得する復職支援～転ばぬ先の知恵～](https://github.com/ToruSagami/public_me/raw/main/2021/52p-%E9%85%8D%E5%B8%83%E7%94%A8-%E3%81%95%E3%82%93%E3%81%8E%E3%82%87%E3%81%86%E3%81%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E4%BC%81%E7%94%BB2021%E7%9F%A5%E3%81%A3%E3%81%A6%E5%BE%97%E3%81%99%E3%82%8B%EF%BC%81%E5%BE%A9%E8%81%B7%E6%94%AF%E6%8F%B4%EF%BD%9E%E3%80%8E%E8%BB%A2%E3%81%B0%E3%81%AC%E5%85%88%E3%81%AE%E7%9F%A5%E6%81%B5%E3%80%8F%EF%BD%9E.pdf)         |
+| 2022年 | [今さら聞けない健康経営の知識と健康のエビデンス](https://github.com/ToruSagami/public_me/blob/main/2022/2022_Imasara_Kenko_Keiei.marp.pdf) |
+|2022年|[ビズスキルプラス こころ・からだの新ルーティン](https://youtu.be/lxd_8Zo5pRo?t=1732)|
+| 2021年 | [知って得する復職支援～転ばぬ先の知恵～](https://github.com/ToruSagami/public_me/blob/main/2021/52p-%E9%85%8D%E5%B8%83%E7%94%A8-%E3%81%95%E3%82%93%E3%81%8E%E3%82%87%E3%81%86%E3%81%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E4%BC%81%E7%94%BB2021%E7%9F%A5%E3%81%A3%E3%81%A6%E5%BE%97%E3%81%99%E3%82%8B%EF%BC%81%E5%BE%A9%E8%81%B7%E6%94%AF%E6%8F%B4%EF%BD%9E%E3%80%8E%E8%BB%A2%E3%81%B0%E3%81%AC%E5%85%88%E3%81%AE%E7%9F%A5%E6%81%B5%E3%80%8F%EF%BD%9E.pdf)         |
 | 2021年 | [生涯パフォーマンスを高めるコンディションづくり](https://github.com/ToruSagami/public_me/raw/main/2021/2021-06%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8B%E3%83%BC%E7%95%AA%E5%A4%96%E7%B7%A8.pptx) |
 
-## 日本医師会産業医認定講習会
-
-| 実施   | テーマ                                                   |
+| 実施   | 医師・産業医向け（日本医師会産業医認定講習会）                                          |
 | ------ | -------------------------------------------------------- |
 | 2022年 | [産業医が知っておきたい健康経営の知識](https://github.com/ToruSagami/public_me/blob/main/2022/sangyoui_kenko_keiei_2022.marp.pdf)         |
 | 2022年 | [今すぐ役立つ！産業医のデジタルトランスフォーメーション](https://github.com/ToruSagami/public_me/blob/main/2022/Sangyoui_DX_2022.marp.pdf) |
 | 2021年 | [産業医が知っておきたい難病の知識](https://github.com/ToruSagami/public_me/blob/main/2022/part1-print-2022-2-25kenshu.pdf)|  |
 
-## 公衆衛生学講義 
+
+<!-- _class: small -->
+
+## 学生向け（公衆衛生学講義） 
 | 回  | テーマ                           |
 | --- | -------------------------------- |
 | 1   | [地域保健と保健統計](https://github.com/ToruSagami/public_me/blob/main/kango/1-%E5%9C%B0%E5%9F%9F%E4%BF%9D%E5%81%A5%E3%81%A8%E4%BF%9D%E5%81%A5%E7%B5%B1%E8%A8%88.pdf)             |
@@ -144,12 +167,18 @@ section.small h3 {
 | 6   | [健康教育・ヘルスプロモーション](https://github.com/ToruSagami/public_me/blob/main/kango/6-%E5%81%A5%E5%BA%B7%E6%95%99%E8%82%B2%E3%83%BB%E3%83%98%E3%83%AB%E3%82%B9%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3.pdf) |
 | 7   | [社会と健康](https://github.com/ToruSagami/public_me/blob/main/kango/7-%E7%A4%BE%E4%BC%9A%E3%81%A8%E5%81%A5%E5%BA%B7.pdf)                     |
 
-## Youtube :arrow_forward: <BR> [おクスリちゃんねる💊医者も知らない新常識🍒](https://www.youtube.com/channel/UCuNBtJRNmjwoAMxWjSEl4Yg)                   
-![bg right:20% fit](https://chart.apis.google.com/chart?cht=qr&chs=160x160&chl=https://www.youtube.com/channel/UCuNBtJRNmjwoAMxWjSEl4Yg/videos) 
+![bg right:45%](https://images.unsplash.com/photo-1585031766793-acdf67eef684?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1036&q=80)
 
-![](../portfolio/yasasii_kikime-canva.png)
 
-<!-- _backgroundColor: lightyellow -->
+## YouTube :arrow_forward: <BR> [おクスリちゃんねる💊<BR>医者も知らない新常識🍒](https://www.youtube.com/channel/UCuNBtJRNmjwoAMxWjSEl4Yg)                   
+
+![bg right vertical fit](./asset/yasasii_kikime-canva.png)
+
+![bg right vertical fit](./asset/QR_yt_okusuri_2022-09-11.png)
+
+<!-- _backgroundColor: "#190b42" -->
+
+<!-- _color: white -->
 
 ---
 <!-- _backgroundColor: lightyellow -->
@@ -169,25 +198,31 @@ section.small h3 {
 
 <!-- _class: small -->
 
-## <!--fit-->人工音声による「電子紙芝居」
+
+## 趣味・特技
+- パンダ カレー 地図旅行 書類整理
+
+### StrengthsFinder 
+ 学習欲 分析思考 達成欲  着想 収集心
+
+
+### 使用可能ツールと保有スキル
+
+- R/RStudio データ分析
+- markdown/marp 文書・スライド作成
+
+- ゆっくりムービーメーカー 動画作成
+- Visual Studio Code
+
+![bg right:40%](https://images.unsplash.com/photo-1560343787-b90cb337028e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80)
 <!-- _backgroundColor: "#ffe0e0" -->
-| 動画                                                                                                | 説明                                                                                                             |
+## 合成音声で「紙芝居」動画を**自動作成**することに成功 コスト0円
+<!-- _backgroundColor: "#ffe0e0" -->
+| 動画コンテンツ 例                                                                                               | 内容                                                                                                             |
 | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | [【オレの時短・DX】パソコンで動画作成を自動化する方法](https://www.youtube.com/watch?v=2GOmlVI06Ps) | 原稿を読み上げるだけなら機械でよくない？<BR>タスクシフト、働き方改革、時短。<BR>まだそのアナログ作業続けますか？ |
 | [ビズスキルプラス こころ・からだの新ルーティン](https://youtu.be/lxd_8Zo5pRo?t=1732)                | 自分でデキる！ストレスケア　ストレスを知る 理想に近づく方法を考える・身につける <BR>毎日ストレス決算主義         |
 
 
-## 趣味・特技
-- パンダ カレー 地図旅行
-
-### 使用可能ツール
-
-- R
-- markdown/R markdown
-- marp
-- AutoHotKey
-- Visual Studio Code
-- ゆっくりムービーメーカー
-
-![bg right](https://images.unsplash.com/photo-1560343787-b90cb337028e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80)
-<!-- _backgroundColor: "#ffe0e0" -->
+#### 口頭セッション・教育講演のスライド読み上げ（録音）に利用可能
+- タスクシフト「スキルの高い研究者・専門職にしかできないことに集中」
