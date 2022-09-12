@@ -122,10 +122,10 @@ section.small h3 {
 臨床医学・精神医学・産業精神保健学・医療社会学・医療コミュニケーション学健康教育学・臨床心理学・行動分析学・行動経済学・ポジティブ心理学・コーチング心理学・失敗学　などなど
 
 
----
-### どうして産業医？
 
-- 初期研修修了「放射線診断」の道へ
+## どうして産業医？
+
+- 初期研修後「放射線診断」の道へ
     -   医療機関に来る病気の患者ひとりひとりを見ていてもキリがない
 - 労働力人口の減少と高齢化
   - 20-60歳代が健康を維持・増進しながら「活躍」することが必要
@@ -133,10 +133,15 @@ section.small h3 {
   - 大学院：公衆(public)衛生(health) = みんなの健康
 
 
-### これからやりたいこと
+## これから「やりたい」こと
 - 病人を診る医師でなく、社会の健康度を高める医師。全体の平均値の改善
-- スマホで知識が手に入る時代。動機づけのための「教育」「適切な情報」
+- スマホで知識が入手できる時代。動機づけのための「教育」の実施「適切な情報」のリリース
 - 前例踏襲の医療業界の生産性向上。医療従事者のITスキルの向上。タスクシフト
+  - テクノロジーは仕事・生活を豊かにするために使おう
+  - デジタルスキルを現場に普及
+- **Good Condition Doctor**
+  - in phycical, mental, social, digital. in workspace, private.
+  - in young, aged period.
 
 
 ## 講師（セミナー・講習会・学生講義）
@@ -170,7 +175,10 @@ section.small h3 {
 ![bg right:45%](https://images.unsplash.com/photo-1585031766793-acdf67eef684?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1036&q=80)
 
 
-## YouTube :arrow_forward: <BR> [おクスリちゃんねる💊<BR>医者も知らない新常識🍒](https://www.youtube.com/channel/UCuNBtJRNmjwoAMxWjSEl4Yg)                   
+## YouTube :arrow_forward: はじめました 
+
+- おクスリちゃんねる💊<BR>医者も知らない新常識🍒
+  - https://www.youtube.com/channel/UCuNBtJRNmjwoAMxWjSEl4Yg        
 
 ![bg right vertical fit](./asset/yasasii_kikime-canva.png)
 
@@ -199,31 +207,31 @@ section.small h3 {
 <!-- _class: small -->
 
 
-## 趣味・特技
-- パンダ カレー 地図旅行 書類整理
+## 趣味・特技 🌟
+- パンダ🐼 カレー 地図旅行🌎 書類整理
 
 ### StrengthsFinder 
- 学習欲 分析思考 達成欲  着想 収集心
+- 学習欲 分析思考 達成欲  着想 収集心
 
 
 ### 使用可能ツールと保有スキル
 
-- R/RStudio データ分析
+- R/RStudio データ分析 スクレイピング RPA
 - markdown/marp 文書・スライド作成
-
 - ゆっくりムービーメーカー 動画作成
-- Visual Studio Code
+- Visual Studio Code テキストエディタ
 
 ![bg right:40%](https://images.unsplash.com/photo-1560343787-b90cb337028e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80)
 <!-- _backgroundColor: "#ffe0e0" -->
-## 合成音声を使い「紙芝居」動画の**自動作成**に成功 コストフリー
+## 合成音声で「紙芝居」動画の**自動作成**に成功🏆 コストゼロ
 <!-- _backgroundColor: "#ffe0e0" -->
-| 動画コンテンツ 例                                                                                               | 内容                                                                                                             |
+| 動画コンテンツ 例                                                                                               | 内容🎶                                                                                                             |
 | --------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
-| [【オレの時短・DX】パソコンで動画作成を自動化する方法](https://www.youtube.com/watch?v=2GOmlVI06Ps) | 原稿を読み上げるだけなら機械でよくない？<BR>タスクシフト、働き方改革、時短。<BR>まだそのアナログ作業続けますか？ |
-| [ビズスキルプラス こころ・からだの新ルーティン](https://youtu.be/lxd_8Zo5pRo?t=1732)                | 自分でデキる！ストレスケア　ストレスを知る 理想に近づく方法を考える・身につける <BR>毎日ストレス決算主義         |
+| [【オレの時短・DX】動画作成を自動化する](https://www.youtube.com/watch?v=2GOmlVI06Ps) | 読み上げなら機械でよくない？<BR>タスクシフト、働き方改革、時短。 |
+| [ビズスキル こころ・からだの新ルーティン](https://youtu.be/lxd_8Zo5pRo?t=1732)                | 自分でデキる！ストレスケア <BR>毎日ストレス決算主義         |
 
-
-#### 学会発表・教育講演のスライド作成（録画・録音）に利用可能😁
+### 学会発表・教育講演のスライド作成（録画・録音）に利用可能😁
 - タスクシフト「高スキルの専門職・研究者にしかできないことに集中せよ」
-  - 読み上げ・録音。それって医師・教授の仕事？
+  - 読み上げ・録音。それって医師・教授の仕事？そのアナログまだ続ける？
+
+<!-- _class: smll -->
