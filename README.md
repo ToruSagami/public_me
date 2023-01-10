@@ -174,12 +174,13 @@ section.small h3 {
 | 2021年 | [知って得する復職支援～転ばぬ先の知恵～](https://github.com/ToruSagami/public_me/blob/main/2021/52p-%E9%85%8D%E5%B8%83%E7%94%A8-%E3%81%95%E3%82%93%E3%81%8E%E3%82%87%E3%81%86%E3%81%84%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E3%82%BB%E3%83%9F%E3%83%8A%E3%83%BC%E4%BC%81%E7%94%BB2021%E7%9F%A5%E3%81%A3%E3%81%A6%E5%BE%97%E3%81%99%E3%82%8B%EF%BC%81%E5%BE%A9%E8%81%B7%E6%94%AF%E6%8F%B4%EF%BD%9E%E3%80%8E%E8%BB%A2%E3%81%B0%E3%81%AC%E5%85%88%E3%81%AE%E7%9F%A5%E6%81%B5%E3%80%8F%EF%BD%9E.pdf) |
 | 2021年 | [生涯パフォーマンスを高めるコンディションづくり](https://github.com/ToruSagami/public_me/raw/main/2021/2021-06%E3%83%A9%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8B%E3%83%BC%E7%95%AA%E5%A4%96%E7%B7%A8.pptx)                                                                                                                                                                                                                                                       |
 ---
-| 実施   | 医師・産業医向け（日本医師会産業医認定講習会）                                                                                                                         |
-| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 2023年 | [産業医の学び直し<BR>～ヒト・職場の健康資本・健康資本投資とリスキリング～](https://github.com/ToruSagami/public_me/blob/main/2023/sangyoui_manabinaoshi_2023.marp.pdf) |
-| 2022年 | [産業医が知っておきたい健康経営の知識](https://github.com/ToruSagami/public_me/blob/main/2022/sangyoui_kenko_keiei_2022.marp.pdf)                                      |
-| 2022年 | [今すぐ役立つ！産業医のデジタルトランスフォーメーション](https://github.com/ToruSagami/public_me/blob/main/2022/Sangyoui_DX_2022.marp.pdf)                             |
-| 2021年 | [産業医が知っておきたい難病の知識](https://github.com/ToruSagami/public_me/blob/main/2022/part1-print-2022-2-25kenshu.pdf)                                             |  |
+| 実施   | 医師・産業医向け（日本医師会産業医認定講習会）                                                                                                             |
+| ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2023年 | [産業医の学び直し<BR>～ヒト・職場の健康資本・健康資本投資とリスキリング～](https://torusagami.github.io/public_me/2023/sangyoui_manabinaosi_2023.marp.pdf) |
+| 2023年 | [産業医が知っておきたい難病の知識](https://github.com/ToruSagami/public_me/raw/main/2023/sangyoui_nanbyo_2023.marp.pdf)                                    |  |
+| 2022年 | [産業医が知っておきたい健康経営の知識](https://github.com/ToruSagami/public_me/blob/main/2022/sangyoui_kenko_keiei_2022.marp.pdf)                          |
+| 2022年 | [今すぐ役立つ！産業医のデジタルトランスフォーメーション](https://github.com/ToruSagami/public_me/blob/main/2022/Sangyoui_DX_2022.marp.pdf)                 |
+| 2021年 | [産業医が知っておきたい難病の知識](https://github.com/ToruSagami/public_me/blob/main/2022/part1-print-2022-2-25kenshu.pdf)                                 |  |
 
 
 <!-- _class: small -->
