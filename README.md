@@ -177,7 +177,7 @@ section.small h3 {
 | 実施   | 医師・産業医向け（日本医師会産業医認定講習会）                                                                                                             |
 | ------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2023年 | [産業医の学び直し<BR>～ヒト・職場の健康資本・健康資本投資とリスキリング～](https://torusagami.github.io/public_me/2023/sangyoui_manabinaosi_2023.marp.pdf) |
-| 2023年 | [産業医が知っておきたい難病の知識](https://github.com/ToruSagami/public_me/raw/main/2023/sangyoui_nanbyo_2023.marp.pdf)                                    |  |
+| 2023年 | [産業医が知っておきたい難病の知識](https://torusagami.github.io/public_me/2023/print-part1_print-sangyoui_nanbyo_2023.marp.pdf)                            |  |
 | 2022年 | [産業医が知っておきたい健康経営の知識](https://github.com/ToruSagami/public_me/blob/main/2022/sangyoui_kenko_keiei_2022.marp.pdf)                          |
 | 2022年 | [今すぐ役立つ！産業医のデジタルトランスフォーメーション](https://github.com/ToruSagami/public_me/blob/main/2022/Sangyoui_DX_2022.marp.pdf)                 |
 | 2021年 | [産業医が知っておきたい難病の知識](https://github.com/ToruSagami/public_me/blob/main/2022/part1-print-2022-2-25kenshu.pdf)                                 |  |
