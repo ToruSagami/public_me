@@ -5,7 +5,7 @@ marp: true
 date: 2022-08-30
 headingDivider: 2
 backgroundColor: lavender
-footer: Copyright: Toru Sagami, 2022. Images from unsplash.com and authorities
+footer: Copyright: Toru Sagami, 2023. 
 paginate: true
 ---
 
@@ -99,9 +99,9 @@ section.small h3 {
 
 ### 職務経歴
 
-- <U>サービス業の産業医</U>として、主にメンタルヘルス対応、健康経営の施策立案や一般社員への研修の企画・実施に携わる。
-- ヘルスケアITの知識、臨床医・産業医の経験を活かし、人事労務担当者や産業医を対象とするの<U>研修会の講師</U>として活動。
-- 放射線診断専門医であり、大学病院での臨床経験を有する。国立がん研究センターで全国がん登録の研究員としてデータベース研究を経験。
+- サービス業の産業医として、メンタルヘルス対応、健康経営の施策立案や一般社員への研修の企画・実施などに携わる。
+- ヘルスケアITの知識、臨床医・産業医の経験を活かし、人事労務担当者や産業医を対象とする研修会の講師として活動。
+- 放射線診断専門医として、大学病院等での臨床経験を有する。国立がん研究センターの研究員として全国がん登録のデータベース研究を経験。
 - [書籍「公衆衛生がみえる」](https://www.amazon.co.jp/%E5%85%AC%E8%A1%86%E8%A1%9B%E7%94%9F%E3%81%8C%E3%81%BF%E3%81%88%E3%82%8B-2022-2023-%E5%8C%BB%E7%99%82%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80/dp/4896328582/ref=sr_1_1?keywords=%E5%85%AC%E8%A1%86%E8%A1%9B%E7%94%9F%E3%81%8C%E3%81%BF%E3%81%88%E3%82%8B&qid=1661668428&sr=8-1)の企画に参画。公衆衛生学を専攻。
 
 ![bg fit right:18% vertical](https://informa.medilink-study.com/wordpress/wp-content/uploads/2014/12/c5bdc3cd1327829d7a15539c02245932.jpg)
