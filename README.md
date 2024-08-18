@@ -104,7 +104,7 @@ section.small h3 {
 - 放射線診断専門医として、大学病院等での臨床経験を有する。国立がん研究センターの研究員として全国がん登録のデータベース研究を経験。
 - [書籍「公衆衛生がみえる」](https://www.amazon.co.jp/%E5%85%AC%E8%A1%86%E8%A1%9B%E7%94%9F%E3%81%8C%E3%81%BF%E3%81%88%E3%82%8B-2022-2023-%E5%8C%BB%E7%99%82%E6%83%85%E5%A0%B1%E7%A7%91%E5%AD%A6%E7%A0%94%E7%A9%B6%E6%89%80/dp/4896328582/ref=sr_1_1?keywords=%E5%85%AC%E8%A1%86%E8%A1%9B%E7%94%9F%E3%81%8C%E3%81%BF%E3%81%88%E3%82%8B&qid=1661668428&sr=8-1)の企画に参画。公衆衛生学を専攻。
 
-![bg fit right:18% vertical](https://informa.medilink-study.com/wordpress/wp-content/uploads/2014/12/c5bdc3cd1327829d7a15539c02245932.jpg)
+![bg fit right:18% vertical](https://informa.medilink-study.com/wordpress/wp-content/uploads/2014/12/02e6d01d635bd60038a039d65fc69442.jpg)
  
 
 ## 資格・専門領域
